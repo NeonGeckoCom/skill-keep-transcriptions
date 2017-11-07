@@ -1,0 +1,9 @@
+{
+  "utterance": "deny audio recording",
+  "intent_type": "DenyAudioRecording",
+  "intent": {
+    "Deny1": "deny",
+    "Recording2": "audio",
+    "Recording3": "recording"
+}
+}
